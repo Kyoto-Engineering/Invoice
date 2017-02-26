@@ -1,1 +1,10 @@
 c:\users\kowsar\documents\visual studio 2013\Projects\Invoice Generate System\Invoice Generate System\bin\Debug\Invoice Generate System.exe.config
+G:\git\Invoice\Invoice Generate System\bin\Debug\Invoice Generate System.exe.config
+G:\git\Invoice\Invoice Generate System\bin\Debug\Invoice Generate System.exe
+G:\git\Invoice\Invoice Generate System\bin\Debug\Invoice Generate System.pdb
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice Generate System.csprojResolveAssemblyReference.cache
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice_Generate_System.Form1.resources
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice_Generate_System.Properties.Resources.resources
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice Generate System.csproj.GenerateResource.Cache
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice Generate System.exe
+G:\git\Invoice\Invoice Generate System\obj\Debug\Invoice Generate System.pdb
